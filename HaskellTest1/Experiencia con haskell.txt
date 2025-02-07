@@ -1,0 +1,7 @@
+En mi caso, no tuve tantas dificultades a la hora de descargar lo necesario para el lenguaje, ya que me guié en buena parte con 
+tutoriales de youtube.
+Solo tuve que usar el gestor de paquetes Chocolatey desde el powershell y esperar a que todo se descargara.
+Ya pasando a la programación, si se me hizo algo raro al principio, ya que estaba acostumbrado a la programación orientada a 
+objetos. Pero con un poco de ayuda de la IA y documentación oficial pude entender un el funcionamiento de los códigos hechos.
+Considero que van a haber momentos donde se me podrían presentar problemas en mi aprendizaje, pero con el material que puede ser 
+encontrado en internet estoy muy seguro que lograré superarlos y así conseguir los objetivos de esta actividad. 
